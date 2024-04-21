@@ -11,9 +11,15 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Migrations\" />
     <Folder Include="EC\" />
-    <Folder Include="Database\" />
+    <Folder Include="Migrations\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="LMS.Library">
+      <HintPath>..\..\LMS.Library\LMS.Library\bin\Debug\net8.0\LMS.Library.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
