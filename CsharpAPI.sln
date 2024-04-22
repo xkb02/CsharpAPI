@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpAPI", "CsharpAPI\CsharpAPI.csproj", "{F6120972-46F7-4BA7-AC58-6436054619BF}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LMS.Library", "..\LMS.Library\LMS.Library\LMS.Library.csproj", "{6C67E9C5-5920-46F7-8C33-2B1C72F350EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F6120972-46F7-4BA7-AC58-6436054619BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6120972-46F7-4BA7-AC58-6436054619BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6120972-46F7-4BA7-AC58-6436054619BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C67E9C5-5920-46F7-8C33-2B1C72F350EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C67E9C5-5920-46F7-8C33-2B1C72F350EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C67E9C5-5920-46F7-8C33-2B1C72F350EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C67E9C5-5920-46F7-8C33-2B1C72F350EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
